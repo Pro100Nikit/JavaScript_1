@@ -1,12 +1,11 @@
 @font-face {
-    src: url(SuisseIntl-Book.woff);
+    src: url(font/SuisseIntl-Book.woff);
     font-family: 'Suisse';
     font-weight: normal;
 }
 
 @font-face {
-    src: url(SuisseIntl-Bold.woff
-    );
+    src: url(font/SuisseIntl-Bold.woff);
     font-family: 'Suisse';
     font-weight: bold;
 }
