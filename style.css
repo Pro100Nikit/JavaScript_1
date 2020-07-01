@@ -1,11 +1,11 @@
 @font-face {
-    src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
+    src: url(SuisseIntl-Book.woff);
     font-family: 'Suisse';
     font-weight: normal;
 }
 
 @font-face {
-    src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff
+    src: url(SuisseIntl-Bold.woff
     );
     font-family: 'Suisse';
     font-weight: bold;
@@ -24,7 +24,7 @@ body {
     max-width: 540px;
     min-height: 100%;
     margin: 0 auto;
-    font-family: 'Suisse';
+    font-family: 'Suisse', sans-serif;
     box-sizing: border-box;
     padding: 36px;
 }
